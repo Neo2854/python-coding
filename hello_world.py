@@ -1,1 +1,4 @@
-print("Hello World")
+a = 15
+b = 25
+c = 40
+print(a*b*c)
